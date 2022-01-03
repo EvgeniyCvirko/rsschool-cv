@@ -1,1 +1,3 @@
-https://EvgeniyCvirko.github.io/rsschool-cv/
+
+https://EvgeniyCvirko.github.io/rsschool-cv/cv
+
