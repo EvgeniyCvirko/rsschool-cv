@@ -32,3 +32,13 @@ I am 31. I want to acquire a new specialty because I would like to change my cur
 	max-width: 100%;
 	}
 ```
+## Experience
+I didn't have experience in software development.
+## Education
+1. **University:** 
++ BSUIR, telecommunications engineer.
+2. **Online courses:**
++ [YouTube channel «Фрилансер по жизни»](https://www.youtube.com/c/FreelancerLifeStyle) (in progress)
++ [JS/FE Pre-School 2022](https://app.rs.school/) (in progress)
+## Languages:
+English level - A2 (pre-intermediate)
